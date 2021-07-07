@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spooncus
 - 🌱 I’m currently learning Golang
-- 🐦 How to reach me @dogukankirali on Twitter
+- 🐦 @dogukankirali on Twitter
 
 <!---
 Spooncus/Spooncus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
