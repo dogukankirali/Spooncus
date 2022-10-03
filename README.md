@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Spooncus
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m @dogukankirali
+- 🌱 I’m currently working with ReactJS and GoLang
 - 🐦 @dogukankirali on Twitter
 
 <!---
